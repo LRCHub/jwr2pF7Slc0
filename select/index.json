@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いきものがかり『彩り』Music Video(小田急グループ 企業CMソング)",
+  "base_artist": "いきものがかり",
+  "createdAt": "2026-01-05T08:12:34.756015Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いきものがかり 笑ってたいんだ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_いきものがかり_笑ってたいんだ_いきものがかり.txt"
+    }
+  ]
+}
